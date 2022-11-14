@@ -1,4 +1,3 @@
-import unittest
 from varasto import Varasto
 
 
